@@ -42,6 +42,7 @@ release/latest/
 *.nupkg
 release/*
 
+src/packages/*
 src/ServiceStack.MonoTouch/.DS_Store
 NuGet/
 build/
